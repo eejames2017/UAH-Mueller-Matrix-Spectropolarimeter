@@ -1,0 +1,17 @@
+MEASUREMENT PARAMETERS
+Date: 12 Aug. 2021
+Sample: Air Calibration 1
+Mode: Transmission
+Step: 2nnm
+Resolution: 10nm
+Starting Wavelength: 300nm
+Ending Wavelength: 1100nm
+Angle of Incidence: 0deg
+Lock-In Sensitivity: 2mV
+Refractive Index File: ---
+
+COMMENTS
+-- Calibration Sample: Yes
+-- Bad wavelengths removed from CAL1_12Aug2021: 812 nm, 824 nm, 874 nm, 882 nm, 902 nm
+
+

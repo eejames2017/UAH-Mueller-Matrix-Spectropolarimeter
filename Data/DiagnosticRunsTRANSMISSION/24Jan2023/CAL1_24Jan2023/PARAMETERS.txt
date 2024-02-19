@@ -1,0 +1,15 @@
+MEASUREMENT PARAMETERS
+Date: 24 Jan. 2023
+Sample: Air Calibration 1
+Mode: Transmission
+Step: 2nm
+Resolution: 4nm
+Starting Wavelength: 300nm
+Ending Wavelength: 1100nm
+Angle of Incidence: 0deg
+Lock-In Sensitivity: 2mV
+Refractive Index File: ---
+
+COMMENTS
+-- Calibration Sample: Yes
+-- Spike at 710nm removed (low irradiance).
